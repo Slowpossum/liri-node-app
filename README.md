@@ -14,4 +14,8 @@ LIRI is a command line node application which returns information on songs, movi
 `node liri.js movie-this "[Movie Title]"` will return data on the movie requested using the OMDB API.
 
 ## Logs
-All data requested from LIRI will be logged in log.txt, including the comman used and data returned by the command.
+All data requested from LIRI is logged in log.txt, including the comman used and data returned by the command.
+
+
+## In use
+Here's a video of LIRI in use: https://raw.githubusercontent.com/Slowpossum/liri-node-app/master/movie/liri-in-use.webm
